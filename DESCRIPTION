@@ -1,9 +1,9 @@
 Package: redR
 Type: Package
 Title: REgularization by Denoising (RED)
-Version: 1.0.0
-Author: person("Adriano", "Passos", email="adriano.utfpr@gmail.com", role=c("aut","cre"))
-Maintainer: Adriano G. Passos <adriano.utfpr@gmail.com>
+Version: 1.0.1
+Authors@R: person("Adriano", "Passos", email="adriano.utfpr@gmail.com", role=c("aut","cre"))
+Maintainer: Adriano Passos <adriano.utfpr@gmail.com>
 Description: Regularization by Denoising uses a denoising engine to solve
   many image reconstruction ill-posed inverse problems. This is a R
   implementation of the algorithm developed by Romano et.al. (2016) <arXiv:1611.02862>. Currently,
@@ -18,6 +18,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-06-14 14:39:18 UTC; CITEC
+Packaged: 2018-08-31 16:32:04 UTC; Adriano
+Author: Adriano Passos [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-06-14 21:52:45 UTC
+Date/Publication: 2018-09-03 11:20:03 UTC
